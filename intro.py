@@ -1,2 +1,2 @@
-def hello(h1,helloo):
-    pass
+def hello(a,b):
+    return a+b
